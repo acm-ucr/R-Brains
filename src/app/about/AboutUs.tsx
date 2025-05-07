@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 
-const AboutUs = () => {
-    <div>
-        
-    </div>
-};
+// const AboutUs = () => {
+//    <div>
+
+//    </div>
+//};
